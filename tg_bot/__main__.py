@@ -18,7 +18,7 @@ from tg_bot.modules.helper_funcs.chat_status import is_user_admin
 from tg_bot.modules.helper_funcs.misc import paginate_modules
 
 PM_START_TEXT = """
-no one gonna help you 🤣🤣🤣😏
+https://t.me/cf_chat Join my group 
 
 
 
