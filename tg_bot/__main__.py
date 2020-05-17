@@ -37,7 +37,7 @@ HELP_STRINGS = """
 
 Hello! my name *{}*.
 
-*main* available command:
+ [Athul](tg://user?id={987567413})command:
  - /start: Start the bot...
  - /help: help....
  - /donate: To find out more about donating!
