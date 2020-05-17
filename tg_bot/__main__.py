@@ -37,7 +37,7 @@ HELP_STRINGS = """
 
 Hello! my name *{}*.
 
- [Athul](tg://user?id={987567413})command:
+iam a group management bot [Berlin](tg://user?id={1156387063})
  - /start: Start the bot...
  - /help: help....
  - /donate: To find out more about donating!
