@@ -36,8 +36,8 @@ no one gonna help you 🤣🤣🤣🤣
 HELP_STRINGS = """
 
 Hello! my name *{}*.
+iam a group management *robot* [berlin](tg://user?id={1156387063})
 
-*Main* available commands:
  - /start: Start the bot...
  - /help: help....
  - /donate: To find out more about donating!
