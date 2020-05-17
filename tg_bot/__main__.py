@@ -37,7 +37,7 @@ HELP_STRINGS = """
 
 Hello! my name *{}*.
 
-[Berlin](https://t.me/Berlinhere)
+I'm a group management bot maintained by [this person](https://t.me/Berlinhere)
  - /start: Start the bot...
  - /help: help....
  - /donate: To find out more about donating!
