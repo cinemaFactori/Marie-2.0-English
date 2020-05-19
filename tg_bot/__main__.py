@@ -18,7 +18,7 @@ from tg_bot.modules.helper_funcs.chat_status import is_user_admin
 from tg_bot.modules.helper_funcs.misc import paginate_modules
 
 PM_START_TEXT = """
-[hi iam alia group management robot 😎](https://t.me/Berlinhere)
+[no one gonna help you 🤣🤣🤣🤣](https://t.me/Berlinhere)
 
 
 
