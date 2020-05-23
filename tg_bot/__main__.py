@@ -18,7 +18,7 @@ from tg_bot.modules.helper_funcs.chat_status import is_user_admin
 from tg_bot.modules.helper_funcs.misc import paginate_modules
 
 PM_START_TEXT = """
-Hi Berlhi {},my name is *Son Ye-jin* 😍! 
+Hi {}, my name is *Son Ye-jin* 😍! 
 I am a kerala group management [bot](https://t.me/Tony_565)
 
 You can find the list of available commands with /help.
