@@ -18,8 +18,8 @@ from tg_bot.modules.helper_funcs.chat_status import is_user_admin
 from tg_bot.modules.helper_funcs.misc import paginate_modules
 
 PM_START_TEXT = """
-Hi Berlin, my name is Son Son ye jin 😍! 
-I am a kerala group management bot.
+Hi Berlhi {},my name is *Son Ye-jin* 😍! 
+I am a kerala group management [bot](https://t.me/Tony_565)
 
 You can find the list of available commands with /help.
 
@@ -41,7 +41,7 @@ HELP_STRINGS = """
 
 Hello! my name *{}*.
 
-I'm an Administrator For Fun and help admins manage their groups with Giffy! Have a look at the following for an idea of some of the things I can help you with.
+I'm an [Administrator](https://t.me/Tony_565) For Fun and help admins manage their groups with Giffy! Have a look at the following for an idea of some of the things I can help you with.
 
  - /start: Start the bot...
  - /help: help....
